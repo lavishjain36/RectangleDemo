@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RectangleTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2021-03-12T06:47:13" hostname="DESKTOP-EDLROQB" time="0.034">
+  <properties/>
+  <testcase name="testAreaForBothNegativeValuedSide()" classname="RectangleTest" time="0.015"/>
+  <testcase name="testPerimeterForBreadthAsValuedSides()" classname="RectangleTest" time="0.001"/>
+  <testcase name="testAreaForPositiveValuedSide()" classname="RectangleTest" time="0.001"/>
+  <testcase name="testAreaForLengthNegativeValuedSide()" classname="RectangleTest" time="0.0"/>
+  <testcase name="testPerimeterForBothSidesAsValuedSides()" classname="RectangleTest" time="0.001"/>
+  <testcase name="testAreaForBreadthNegativeValuedSide()" classname="RectangleTest" time="0.001"/>
+  <testcase name="testPerimeterForBothSidesValuedZero()" classname="RectangleTest" time="0.0"/>
+  <testcase name="testPerimeterForBreadthValuedZero()" classname="RectangleTest" time="0.0"/>
+  <testcase name="testAreaForBothSidesValuedZero()" classname="RectangleTest" time="0.001"/>
+  <testcase name="testPerimeterForLengthValuedZero()" classname="RectangleTest" time="0.001"/>
+  <testcase name="testAreaForLengthValuedZero()" classname="RectangleTest" time="0.001"/>
+  <testcase name="testPerimeterForLengthAsValuedSides()" classname="RectangleTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

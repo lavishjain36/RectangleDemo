@@ -8,10 +8,10 @@ public class Rectangle {
 
     }
 
-    public  int area(){
+    public  int areaofRectangle(){
         return  length*breadth;
     }
-    public  int perimeter(){
+    public  int perimeterofRectangle(){
         return  2*(length+breadth);
     }
 }
